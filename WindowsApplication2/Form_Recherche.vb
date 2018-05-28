@@ -112,13 +112,13 @@ Public Class Form_Recherche
 
         'Création de la Commande WHERE
         If TextBox_Nomcompteur_Compteur.Text <> "" Then
-            Condition.Add("compteur.NumCompteur = '" & TextBox_Nomcompteur_Compteur.Text & "'")
+            Condition.Add("cp.NumCompteur = '" & TextBox_Nomcompteur_Compteur.Text & "'")
         End If
         If TextBox_Nomclient_Compteur.Text <> "" Then
-            Condition.Add("client.Nom LIKE '" & TextBox_Nomclient_Compteur.Text & "%'")
+            Condition.Add("cl.Nom LIKE '" & TextBox_Nomclient_Compteur.Text & "%'")
         End If
         If TextBox_Adresse_Compteur.Text <> "" Then
-            Condition.Add("compteur.AdresseLivraison LIKE '%" & TextBox_Adresse_Compteur.Text & "%'")
+            Condition.Add("cp.AdresseLivraison LIKE '%" & TextBox_Adresse_Compteur.Text & "%'")
         End If
         If Condition.Count() <> 0 Then
             ConsWhere = " WHERE " & String.Join(" AND ", Condition.ToArray)
@@ -203,7 +203,7 @@ Public Class Form_Recherche
             Condition.Add("Nom LIKE '" & TextBox_Nom_Clients.Text & "%'")
         End If
         If TextBox_Adresse_Client.Text <> "" Then
-            Condition.Add("AdresseFacturation Like '%" & TextBox_Adresse_Client.Text & "%'")
+            Condition.Add("AdresseFacturation LIKE '%" & TextBox_Adresse_Client.Text & "%'")
         End If
         If TextBox_CodePostal_Clients.Text <> "" Then
             Condition.Add("CodePostal LIKE '" & TextBox_CodePostal_Clients.Text & "%'")
@@ -213,6 +213,7 @@ Public Class Form_Recherche
         End If
 
         'Requete SQL
+
         Dim Donnees = bdd.Read("SELECT Id, Civ, Nom, Prenom, AdresseFacturation, Ville, CodePostal, AdresseMail FROM client " & ConsWhere)
 
         'Affichage dans le Tableau
@@ -259,5 +260,16 @@ Public Class Form_Recherche
             Dim Line As ListViewItem = New ListViewItem(Donnees(i).ToArray)
             List_Coutdefac.Items.Add(Line)
         Next i
+    End Sub
+
+    Private Sub Double_Click_Client() Handles Tab_Clients.MouseDoubleClick
+
+        If Me.Tab_Clients.SelectedItems.Count = 1 Then
+
+            Dim lvi As ListViewItem = Me.Tab_Clients.SelectedItems(0)
+            Dim idClient As String = lvi.SubItems(0).Text
+            Dim Client As New Form_Double_Clic_Client(idClient)
+
+        End If
     End Sub
 End Class

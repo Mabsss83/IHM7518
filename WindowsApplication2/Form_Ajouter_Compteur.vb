@@ -20,15 +20,15 @@
         Dim NumCompteur = TextBox_Compteur_Num.Text
         Dim Adresse = TextBox_Compteur_AdresseLiv.Text
         Dim Puissance = TextBox_Compteur_Puissance.Text
+        Dim DateDebut = DateTimePicker_Compteur_DateDebut.Value.Date.ToString("yyyy-MM-dd")
 
 
-        bdd.Write("INSERT INTO compteur VALUES (0,'" & Adresse & "'," & NumCompteur & ")")
-        bdd.Write("INSERT INTO compteur VALUES (0,'" & Adresse & "'," & NumCompteur & ")")
+        bdd.Write("INSERT INTO compteur VALUES (0,'" & Adresse & "','" & NumCompteur & "')")
+        Dim IdCompteur = bdd.Read("SELECT Id FROM compteur WHERE NumCompteur = '" & NumCompteur & "'")
+        MsgBox(DateDebut)
+        bdd.Write("INSERT INTO puissance VALUES (0," & IdCompteur(0)(0) & "," & Puissance & ",'" & DateDebut & "')")
         MsgBox("Compteur ajouté avec Succès")
         Me.Close()
     End Sub
 
-    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
-
-    End Sub
 End Class
