@@ -26,23 +26,24 @@
         Dim Ville = TextBox_Ville_AjoutClient.Text
         Dim CP = Val(ComboBox_CodePostal_AjoutClient.Text)
         Dim Mail = TextBox_Adressemail_ajoutclient.Text
-        Dim AutMail = 0
-        Dim AutPost = 0
+        Dim AutMail As String = "0"
+        Dim AutPost As String = "0"
         If ComboBox2.Text = "Oui" Then
-            AutMail = 1
+            AutMail = "1"
         Else
-            AutMail = 0
+            AutMail = "0"
         End If
         If ComboBox3.Text = "Oui" Then
-            AutPost = 1
+            AutPost = "1"
         Else
-            AutPost = 0
+            AutPost = "0"
         End If
-        Dim AutDouble = 0
-        If AutMail = 1 And AutPost = 1 Then
-            AutDouble = 1
+        Dim AutDouble As String = "0"
+        If AutMail = "1" And AutPost = "1" Then
+            AutDouble = "1"
         End If
-        bdd.Write("INSERT INTO client VALUES (0, '" & Civ & "','" & Nom & "','" & Prenom & "','" & Adresse & "','" & Ville & "'," & CP & ",'" & Mail & "'," & AutMail & "," & AutPost & "," & AutDouble & ")")
+        MsgBox("INSERT INTO client VALUES (0, '" & Civ & "','" & Nom & "','" & Prenom & "','" & Adresse & "','" & Ville & "','" & CP & "','" & Mail & "'," & AutMail & "," & AutPost & "," & AutDouble & ")")
+        bdd.Write("INSERT INTO client VALUES (0, '" & Civ & "','" & Nom & "','" & Prenom & "','" & Adresse & "','" & Ville & "','" & CP & "','" & Mail & "'," & AutMail & "," & AutPost & "," & AutDouble & ")")
         MsgBox("Client ajouté avec Succès")
         Me.Close()
     End Sub

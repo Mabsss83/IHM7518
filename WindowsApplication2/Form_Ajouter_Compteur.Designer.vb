@@ -125,6 +125,7 @@ Partial Class Form_Ajouter_Compteur
         '
         'DateTimePicker_Compteur_DateDebut
         '
+        Me.DateTimePicker_Compteur_DateDebut.CustomFormat = "yyyy-mm-dd"
         Me.DateTimePicker_Compteur_DateDebut.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
         Me.DateTimePicker_Compteur_DateDebut.Location = New System.Drawing.Point(302, 447)
         Me.DateTimePicker_Compteur_DateDebut.Name = "DateTimePicker_Compteur_DateDebut"

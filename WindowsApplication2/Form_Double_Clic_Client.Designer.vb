@@ -24,27 +24,23 @@ Partial Class Form_Double_Clic_Client
     Private Sub InitializeComponent()
         Dim ChartArea1 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
         Dim StripLine1 As System.Windows.Forms.DataVisualization.Charting.StripLine = New System.Windows.Forms.DataVisualization.Charting.StripLine()
-        Dim Legend1 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Legend2 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
         Dim Series1 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
         Me.Compteurs = New System.Windows.Forms.TabControl()
         Me.Informations = New System.Windows.Forms.TabPage()
-        Me.ComboBox3 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox2 = New System.Windows.Forms.ComboBox()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
+        Me.CheckBox_mail = New System.Windows.Forms.CheckBox()
+        Me.CheckBox_Courrier = New System.Windows.Forms.CheckBox()
         Me.Label4 = New System.Windows.Forms.Label()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.TextBox_mail = New System.Windows.Forms.TextBox()
         Me.Label3 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.TextBox_ville = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox_civilite = New System.Windows.Forms.ComboBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.TextBox_CodePostal = New System.Windows.Forms.TextBox()
         Me.Text_CodePostal_Information = New System.Windows.Forms.Label()
         Me.Textbox_Nom_Information = New System.Windows.Forms.TextBox()
-        Me.TextBox_Prenom_Informations = New System.Windows.Forms.TextBox()
-        Me.TextBox_Adresse1_Informations = New System.Windows.Forms.TextBox()
+        Me.TextBox_Prenom_Information = New System.Windows.Forms.TextBox()
+        Me.TextBox_Adresse1_Information = New System.Windows.Forms.TextBox()
         Me.TextBox_Id_Informations = New System.Windows.Forms.TextBox()
         Me.Enregister = New System.Windows.Forms.Button()
         Me.Text_Adresse1_Informations = New System.Windows.Forms.Label()
@@ -62,28 +58,29 @@ Partial Class Form_Double_Clic_Client
         Me.ColumnHeader_Client_Compteurs_DebutAbonnement = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.ColumnHeader_Client_Compteurs_FinAbonnement = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.DoubleClic_factures = New System.Windows.Forms.TabPage()
-        Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker()
-        Me.ComboBox4 = New System.Windows.Forms.ComboBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.ComboBoxNumCompteur_Fact = New System.Windows.Forms.ComboBox()
+        Me.Label_periode_2 = New System.Windows.Forms.Label()
+        Me.DateTime_DateFin_Factures = New System.Windows.Forms.DateTimePicker()
+        Me.ComboBoxAdresse_Fact = New System.Windows.Forms.ComboBox()
         Me.Label_tri_adresse = New System.Windows.Forms.Label()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
         Me.DateTime_DateDebut_Factures = New System.Windows.Forms.DateTimePicker()
-        Me.Text_DateFin_factures = New System.Windows.Forms.Label()
         Me.Text_Datedébut_Factures = New System.Windows.Forms.Label()
         Me.List_Factures = New System.Windows.Forms.ListView()
+        Me.Num = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.Date_facture = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.Colonne_Client_Factures_Num_Compteur = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.Montant = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.Address = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.DoubleClic_Consommation = New System.Windows.Forms.TabPage()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.ComboBoxNumCompteur_Conso = New System.Windows.Forms.ComboBox()
         Me.Text_DateDebut_Consommation = New System.Windows.Forms.Label()
         Me.Text_DateFin_Consommation = New System.Windows.Forms.Label()
         Me.DateTime_DateDebut_Consommation = New System.Windows.Forms.DateTimePicker()
         Me.DateTime_DateFin_Consommation = New System.Windows.Forms.DateTimePicker()
         Me.Chart_Consommation = New System.Windows.Forms.DataVisualization.Charting.Chart()
         Me.Text_Titre = New System.Windows.Forms.Label()
-        Me.Label_periode_2 = New System.Windows.Forms.Label()
-        Me.ComboBox5 = New System.Windows.Forms.ComboBox()
-        Me.Label7 = New System.Windows.Forms.Label()
         Me.Compteurs.SuspendLayout()
         Me.Informations.SuspendLayout()
         Me.List_Compteur_DoubleClic.SuspendLayout()
@@ -109,22 +106,20 @@ Partial Class Form_Double_Clic_Client
         '
         'Informations
         '
-        Me.Informations.Controls.Add(Me.ComboBox3)
-        Me.Informations.Controls.Add(Me.ComboBox2)
-        Me.Informations.Controls.Add(Me.Label6)
-        Me.Informations.Controls.Add(Me.Label5)
+        Me.Informations.Controls.Add(Me.CheckBox_mail)
+        Me.Informations.Controls.Add(Me.CheckBox_Courrier)
         Me.Informations.Controls.Add(Me.Label4)
-        Me.Informations.Controls.Add(Me.TextBox2)
+        Me.Informations.Controls.Add(Me.TextBox_mail)
         Me.Informations.Controls.Add(Me.Label3)
-        Me.Informations.Controls.Add(Me.TextBox1)
+        Me.Informations.Controls.Add(Me.TextBox_ville)
         Me.Informations.Controls.Add(Me.Label2)
-        Me.Informations.Controls.Add(Me.ComboBox1)
+        Me.Informations.Controls.Add(Me.ComboBox_civilite)
         Me.Informations.Controls.Add(Me.Label1)
         Me.Informations.Controls.Add(Me.TextBox_CodePostal)
         Me.Informations.Controls.Add(Me.Text_CodePostal_Information)
         Me.Informations.Controls.Add(Me.Textbox_Nom_Information)
-        Me.Informations.Controls.Add(Me.TextBox_Prenom_Informations)
-        Me.Informations.Controls.Add(Me.TextBox_Adresse1_Informations)
+        Me.Informations.Controls.Add(Me.TextBox_Prenom_Information)
+        Me.Informations.Controls.Add(Me.TextBox_Adresse1_Information)
         Me.Informations.Controls.Add(Me.TextBox_Id_Informations)
         Me.Informations.Controls.Add(Me.Enregister)
         Me.Informations.Controls.Add(Me.Text_Adresse1_Informations)
@@ -133,47 +128,31 @@ Partial Class Form_Double_Clic_Client
         Me.Informations.Controls.Add(Me.Text_Id_Informations)
         Me.Informations.Location = New System.Drawing.Point(4, 22)
         Me.Informations.Name = "Informations"
-        Me.Informations.Padding = New System.Windows.Forms.Padding(3)
+        Me.Informations.Padding = New System.Windows.Forms.Padding(3, 3, 3, 3)
         Me.Informations.Size = New System.Drawing.Size(771, 381)
         Me.Informations.TabIndex = 0
         Me.Informations.Text = "Informations"
         Me.Informations.UseVisualStyleBackColor = True
         '
-        'ComboBox3
+        'CheckBox_mail
         '
-        Me.ComboBox3.FormattingEnabled = True
-        Me.ComboBox3.Items.AddRange(New Object() {"Oui", "Non"})
-        Me.ComboBox3.Location = New System.Drawing.Point(343, 209)
-        Me.ComboBox3.Name = "ComboBox3"
-        Me.ComboBox3.Size = New System.Drawing.Size(62, 21)
-        Me.ComboBox3.TabIndex = 24
+        Me.CheckBox_mail.AutoSize = True
+        Me.CheckBox_mail.Location = New System.Drawing.Point(279, 211)
+        Me.CheckBox_mail.Name = "CheckBox_mail"
+        Me.CheckBox_mail.Size = New System.Drawing.Size(64, 17)
+        Me.CheckBox_mail.TabIndex = 24
+        Me.CheckBox_mail.Text = "Par Mail"
+        Me.CheckBox_mail.UseVisualStyleBackColor = True
         '
-        'ComboBox2
+        'CheckBox_Courrier
         '
-        Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Items.AddRange(New Object() {"Oui", "Non"})
-        Me.ComboBox2.Location = New System.Drawing.Point(179, 209)
-        Me.ComboBox2.Name = "ComboBox2"
-        Me.ComboBox2.Size = New System.Drawing.Size(62, 21)
-        Me.ComboBox2.TabIndex = 23
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(276, 212)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(61, 13)
-        Me.Label6.TabIndex = 22
-        Me.Label6.Text = "Par courrier"
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(129, 212)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(44, 13)
-        Me.Label5.TabIndex = 21
-        Me.Label5.Text = "Par mail"
+        Me.CheckBox_Courrier.AutoSize = True
+        Me.CheckBox_Courrier.Location = New System.Drawing.Point(144, 211)
+        Me.CheckBox_Courrier.Name = "CheckBox_Courrier"
+        Me.CheckBox_Courrier.Size = New System.Drawing.Size(81, 17)
+        Me.CheckBox_Courrier.TabIndex = 23
+        Me.CheckBox_Courrier.Text = "Par Courrier"
+        Me.CheckBox_Courrier.UseVisualStyleBackColor = True
         '
         'Label4
         '
@@ -184,12 +163,12 @@ Partial Class Form_Double_Clic_Client
         Me.Label4.TabIndex = 20
         Me.Label4.Text = "Envoi de la facture :"
         '
-        'TextBox2
+        'TextBox_mail
         '
-        Me.TextBox2.Location = New System.Drawing.Point(91, 171)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(220, 20)
-        Me.TextBox2.TabIndex = 19
+        Me.TextBox_mail.Location = New System.Drawing.Point(91, 171)
+        Me.TextBox_mail.Name = "TextBox_mail"
+        Me.TextBox_mail.Size = New System.Drawing.Size(220, 20)
+        Me.TextBox_mail.TabIndex = 19
         '
         'Label3
         '
@@ -200,12 +179,12 @@ Partial Class Form_Double_Clic_Client
         Me.Label3.TabIndex = 18
         Me.Label3.Text = "Adresse mail"
         '
-        'TextBox1
+        'TextBox_ville
         '
-        Me.TextBox1.Location = New System.Drawing.Point(279, 132)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(101, 20)
-        Me.TextBox1.TabIndex = 17
+        Me.TextBox_ville.Location = New System.Drawing.Point(279, 132)
+        Me.TextBox_ville.Name = "TextBox_ville"
+        Me.TextBox_ville.Size = New System.Drawing.Size(101, 20)
+        Me.TextBox_ville.TabIndex = 17
         '
         'Label2
         '
@@ -216,14 +195,14 @@ Partial Class Form_Double_Clic_Client
         Me.Label2.TabIndex = 16
         Me.Label2.Text = "Ville"
         '
-        'ComboBox1
+        'ComboBox_civilite
         '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"M", "F"})
-        Me.ComboBox1.Location = New System.Drawing.Point(91, 61)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(67, 21)
-        Me.ComboBox1.TabIndex = 15
+        Me.ComboBox_civilite.FormattingEnabled = True
+        Me.ComboBox_civilite.Items.AddRange(New Object() {"M.", "Mme."})
+        Me.ComboBox_civilite.Location = New System.Drawing.Point(91, 61)
+        Me.ComboBox_civilite.Name = "ComboBox_civilite"
+        Me.ComboBox_civilite.Size = New System.Drawing.Size(67, 21)
+        Me.ComboBox_civilite.TabIndex = 15
         '
         'Label1
         '
@@ -257,19 +236,19 @@ Partial Class Form_Double_Clic_Client
         Me.Textbox_Nom_Information.Size = New System.Drawing.Size(128, 20)
         Me.Textbox_Nom_Information.TabIndex = 9
         '
-        'TextBox_Prenom_Informations
+        'TextBox_Prenom_Information
         '
-        Me.TextBox_Prenom_Informations.Location = New System.Drawing.Point(528, 62)
-        Me.TextBox_Prenom_Informations.Name = "TextBox_Prenom_Informations"
-        Me.TextBox_Prenom_Informations.Size = New System.Drawing.Size(128, 20)
-        Me.TextBox_Prenom_Informations.TabIndex = 8
+        Me.TextBox_Prenom_Information.Location = New System.Drawing.Point(528, 62)
+        Me.TextBox_Prenom_Information.Name = "TextBox_Prenom_Information"
+        Me.TextBox_Prenom_Information.Size = New System.Drawing.Size(128, 20)
+        Me.TextBox_Prenom_Information.TabIndex = 8
         '
-        'TextBox_Adresse1_Informations
+        'TextBox_Adresse1_Information
         '
-        Me.TextBox_Adresse1_Informations.Location = New System.Drawing.Point(91, 98)
-        Me.TextBox_Adresse1_Informations.Name = "TextBox_Adresse1_Informations"
-        Me.TextBox_Adresse1_Informations.Size = New System.Drawing.Size(220, 20)
-        Me.TextBox_Adresse1_Informations.TabIndex = 7
+        Me.TextBox_Adresse1_Information.Location = New System.Drawing.Point(91, 98)
+        Me.TextBox_Adresse1_Information.Name = "TextBox_Adresse1_Information"
+        Me.TextBox_Adresse1_Information.Size = New System.Drawing.Size(220, 20)
+        Me.TextBox_Adresse1_Information.TabIndex = 7
         '
         'TextBox_Id_Informations
         '
@@ -333,7 +312,7 @@ Partial Class Form_Double_Clic_Client
         Me.List_Compteur_DoubleClic.Controls.Add(Me.List_Compteur)
         Me.List_Compteur_DoubleClic.Location = New System.Drawing.Point(4, 22)
         Me.List_Compteur_DoubleClic.Name = "List_Compteur_DoubleClic"
-        Me.List_Compteur_DoubleClic.Padding = New System.Windows.Forms.Padding(3)
+        Me.List_Compteur_DoubleClic.Padding = New System.Windows.Forms.Padding(3, 3, 3, 3)
         Me.List_Compteur_DoubleClic.Size = New System.Drawing.Size(771, 381)
         Me.List_Compteur_DoubleClic.TabIndex = 1
         Me.List_Compteur_DoubleClic.Text = "Compteurs"
@@ -390,22 +369,22 @@ Partial Class Form_Double_Clic_Client
         'Compteur
         '
         Me.Compteur.Text = "Numéro Compteur"
-        Me.Compteur.Width = 135
+        Me.Compteur.Width = 102
         '
         'Client_Address
         '
         Me.Client_Address.Text = "Adresse"
-        Me.Client_Address.Width = 90
+        Me.Client_Address.Width = 268
         '
         'Puissance
         '
         Me.Puissance.Text = "Puissance"
-        Me.Puissance.Width = 125
+        Me.Puissance.Width = 68
         '
         'ColumnHeader_Client_Compteurs_DebutAbonnement
         '
         Me.ColumnHeader_Client_Compteurs_DebutAbonnement.Text = "Date de début d'abonnement"
-        Me.ColumnHeader_Client_Compteurs_DebutAbonnement.Width = 173
+        Me.ColumnHeader_Client_Compteurs_DebutAbonnement.Width = 156
         '
         'ColumnHeader_Client_Compteurs_FinAbonnement
         '
@@ -414,69 +393,81 @@ Partial Class Form_Double_Clic_Client
         '
         'DoubleClic_factures
         '
+        Me.DoubleClic_factures.Controls.Add(Me.Label5)
+        Me.DoubleClic_factures.Controls.Add(Me.ComboBoxNumCompteur_Fact)
         Me.DoubleClic_factures.Controls.Add(Me.Label_periode_2)
-        Me.DoubleClic_factures.Controls.Add(Me.DateTimePicker1)
-        Me.DoubleClic_factures.Controls.Add(Me.ComboBox4)
+        Me.DoubleClic_factures.Controls.Add(Me.DateTime_DateFin_Factures)
+        Me.DoubleClic_factures.Controls.Add(Me.ComboBoxAdresse_Fact)
         Me.DoubleClic_factures.Controls.Add(Me.Label_tri_adresse)
-        Me.DoubleClic_factures.Controls.Add(Me.TextBox3)
         Me.DoubleClic_factures.Controls.Add(Me.DateTime_DateDebut_Factures)
-        Me.DoubleClic_factures.Controls.Add(Me.Text_DateFin_factures)
         Me.DoubleClic_factures.Controls.Add(Me.Text_Datedébut_Factures)
         Me.DoubleClic_factures.Controls.Add(Me.List_Factures)
         Me.DoubleClic_factures.Location = New System.Drawing.Point(4, 22)
         Me.DoubleClic_factures.Name = "DoubleClic_factures"
-        Me.DoubleClic_factures.Padding = New System.Windows.Forms.Padding(3)
+        Me.DoubleClic_factures.Padding = New System.Windows.Forms.Padding(3, 3, 3, 3)
         Me.DoubleClic_factures.Size = New System.Drawing.Size(771, 381)
         Me.DoubleClic_factures.TabIndex = 2
         Me.DoubleClic_factures.Text = "Factures"
         Me.DoubleClic_factures.UseVisualStyleBackColor = True
         '
-        'DateTimePicker1
+        'Label5
         '
-        Me.DateTimePicker1.Location = New System.Drawing.Point(473, 18)
-        Me.DateTimePicker1.Name = "DateTimePicker1"
-        Me.DateTimePicker1.Size = New System.Drawing.Size(200, 20)
-        Me.DateTimePicker1.TabIndex = 9
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(42, 54)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(67, 13)
+        Me.Label5.TabIndex = 12
+        Me.Label5.Text = "N° Compteur"
         '
-        'ComboBox4
+        'ComboBoxNumCompteur_Fact
         '
-        Me.ComboBox4.FormattingEnabled = True
-        Me.ComboBox4.Location = New System.Drawing.Point(377, 51)
-        Me.ComboBox4.Name = "ComboBox4"
-        Me.ComboBox4.Size = New System.Drawing.Size(362, 21)
-        Me.ComboBox4.TabIndex = 8
+        Me.ComboBoxNumCompteur_Fact.FormattingEnabled = True
+        Me.ComboBoxNumCompteur_Fact.Location = New System.Drawing.Point(115, 51)
+        Me.ComboBoxNumCompteur_Fact.Name = "ComboBoxNumCompteur_Fact"
+        Me.ComboBoxNumCompteur_Fact.Size = New System.Drawing.Size(194, 21)
+        Me.ComboBoxNumCompteur_Fact.TabIndex = 11
+        '
+        'Label_periode_2
+        '
+        Me.Label_periode_2.AutoSize = True
+        Me.Label_periode_2.Location = New System.Drawing.Point(432, 24)
+        Me.Label_periode_2.Name = "Label_periode_2"
+        Me.Label_periode_2.Size = New System.Drawing.Size(19, 13)
+        Me.Label_periode_2.TabIndex = 10
+        Me.Label_periode_2.Text = "au"
+        '
+        'DateTime_DateFin_Factures
+        '
+        Me.DateTime_DateFin_Factures.CustomFormat = "yyyy-mm-dd"
+        Me.DateTime_DateFin_Factures.Location = New System.Drawing.Point(473, 18)
+        Me.DateTime_DateFin_Factures.Name = "DateTime_DateFin_Factures"
+        Me.DateTime_DateFin_Factures.Size = New System.Drawing.Size(200, 20)
+        Me.DateTime_DateFin_Factures.TabIndex = 9
+        '
+        'ComboBoxAdresse_Fact
+        '
+        Me.ComboBoxAdresse_Fact.FormattingEnabled = True
+        Me.ComboBoxAdresse_Fact.Location = New System.Drawing.Point(377, 51)
+        Me.ComboBoxAdresse_Fact.Name = "ComboBoxAdresse_Fact"
+        Me.ComboBoxAdresse_Fact.Size = New System.Drawing.Size(362, 21)
+        Me.ComboBoxAdresse_Fact.TabIndex = 8
         '
         'Label_tri_adresse
         '
         Me.Label_tri_adresse.AutoSize = True
-        Me.Label_tri_adresse.Location = New System.Drawing.Point(315, 56)
+        Me.Label_tri_adresse.Location = New System.Drawing.Point(325, 56)
         Me.Label_tri_adresse.Name = "Label_tri_adresse"
         Me.Label_tri_adresse.Size = New System.Drawing.Size(45, 13)
         Me.Label_tri_adresse.TabIndex = 7
         Me.Label_tri_adresse.Text = "Adresse"
         '
-        'TextBox3
-        '
-        Me.TextBox3.Location = New System.Drawing.Point(169, 53)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox3.TabIndex = 6
-        '
         'DateTime_DateDebut_Factures
         '
+        Me.DateTime_DateDebut_Factures.CustomFormat = "yyyy-mm-dd"
         Me.DateTime_DateDebut_Factures.Location = New System.Drawing.Point(207, 18)
         Me.DateTime_DateDebut_Factures.Name = "DateTime_DateDebut_Factures"
         Me.DateTime_DateDebut_Factures.Size = New System.Drawing.Size(200, 20)
         Me.DateTime_DateDebut_Factures.TabIndex = 3
-        '
-        'Text_DateFin_factures
-        '
-        Me.Text_DateFin_factures.AutoSize = True
-        Me.Text_DateFin_factures.Location = New System.Drawing.Point(57, 56)
-        Me.Text_DateFin_factures.Name = "Text_DateFin_factures"
-        Me.Text_DateFin_factures.Size = New System.Drawing.Size(106, 13)
-        Me.Text_DateFin_factures.TabIndex = 2
-        Me.Text_DateFin_factures.Text = "Numéro du compteur"
         '
         'Text_Datedébut_Factures
         '
@@ -492,7 +483,7 @@ Partial Class Form_Double_Clic_Client
         Me.List_Factures.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.List_Factures.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.Date_facture, Me.Colonne_Client_Factures_Num_Compteur, Me.Montant, Me.Address})
+        Me.List_Factures.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.Num, Me.Date_facture, Me.Colonne_Client_Factures_Num_Compteur, Me.Montant, Me.Address})
         Me.List_Factures.GridLines = True
         Me.List_Factures.Location = New System.Drawing.Point(8, 86)
         Me.List_Factures.Name = "List_Factures"
@@ -501,32 +492,37 @@ Partial Class Form_Double_Clic_Client
         Me.List_Factures.UseCompatibleStateImageBehavior = False
         Me.List_Factures.View = System.Windows.Forms.View.Details
         '
+        'Num
+        '
+        Me.Num.Text = "N°"
+        Me.Num.Width = 30
+        '
         'Date_facture
         '
         Me.Date_facture.Text = "Date de la facture"
-        Me.Date_facture.Width = 189
+        Me.Date_facture.Width = 113
         '
         'Colonne_Client_Factures_Num_Compteur
         '
         Me.Colonne_Client_Factures_Num_Compteur.Text = "Numéro compteur"
-        Me.Colonne_Client_Factures_Num_Compteur.Width = 191
+        Me.Colonne_Client_Factures_Num_Compteur.Width = 117
         '
         'Montant
         '
-        Me.Montant.DisplayIndex = 3
+        Me.Montant.DisplayIndex = 4
         Me.Montant.Text = "Montant"
-        Me.Montant.Width = 221
+        Me.Montant.Width = 123
         '
         'Address
         '
-        Me.Address.DisplayIndex = 2
+        Me.Address.DisplayIndex = 3
         Me.Address.Text = "Adresse"
-        Me.Address.Width = 143
+        Me.Address.Width = 366
         '
         'DoubleClic_Consommation
         '
         Me.DoubleClic_Consommation.Controls.Add(Me.Label7)
-        Me.DoubleClic_Consommation.Controls.Add(Me.ComboBox5)
+        Me.DoubleClic_Consommation.Controls.Add(Me.ComboBoxNumCompteur_Conso)
         Me.DoubleClic_Consommation.Controls.Add(Me.Text_DateDebut_Consommation)
         Me.DoubleClic_Consommation.Controls.Add(Me.Text_DateFin_Consommation)
         Me.DoubleClic_Consommation.Controls.Add(Me.DateTime_DateDebut_Consommation)
@@ -534,11 +530,28 @@ Partial Class Form_Double_Clic_Client
         Me.DoubleClic_Consommation.Controls.Add(Me.Chart_Consommation)
         Me.DoubleClic_Consommation.Location = New System.Drawing.Point(4, 22)
         Me.DoubleClic_Consommation.Name = "DoubleClic_Consommation"
-        Me.DoubleClic_Consommation.Padding = New System.Windows.Forms.Padding(3)
+        Me.DoubleClic_Consommation.Padding = New System.Windows.Forms.Padding(3, 3, 3, 3)
         Me.DoubleClic_Consommation.Size = New System.Drawing.Size(771, 381)
         Me.DoubleClic_Consommation.TabIndex = 3
         Me.DoubleClic_Consommation.Text = "Consommation"
         Me.DoubleClic_Consommation.UseVisualStyleBackColor = True
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Location = New System.Drawing.Point(414, 54)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(67, 13)
+        Me.Label7.TabIndex = 9
+        Me.Label7.Text = "N° Compteur"
+        '
+        'ComboBoxNumCompteur_Conso
+        '
+        Me.ComboBoxNumCompteur_Conso.FormattingEnabled = True
+        Me.ComboBoxNumCompteur_Conso.Location = New System.Drawing.Point(503, 51)
+        Me.ComboBoxNumCompteur_Conso.Name = "ComboBoxNumCompteur_Conso"
+        Me.ComboBoxNumCompteur_Conso.Size = New System.Drawing.Size(194, 21)
+        Me.ComboBoxNumCompteur_Conso.TabIndex = 8
         '
         'Text_DateDebut_Consommation
         '
@@ -560,6 +573,7 @@ Partial Class Form_Double_Clic_Client
         '
         'DateTime_DateDebut_Consommation
         '
+        Me.DateTime_DateDebut_Consommation.CustomFormat = "yyyy-mm-dd"
         Me.DateTime_DateDebut_Consommation.Location = New System.Drawing.Point(175, 25)
         Me.DateTime_DateDebut_Consommation.Name = "DateTime_DateDebut_Consommation"
         Me.DateTime_DateDebut_Consommation.Size = New System.Drawing.Size(200, 20)
@@ -567,6 +581,7 @@ Partial Class Form_Double_Clic_Client
         '
         'DateTime_DateFin_Consommation
         '
+        Me.DateTime_DateFin_Consommation.CustomFormat = "yyyy-mm-dd"
         Me.DateTime_DateFin_Consommation.Location = New System.Drawing.Point(175, 51)
         Me.DateTime_DateFin_Consommation.Name = "DateTime_DateFin_Consommation"
         Me.DateTime_DateFin_Consommation.Size = New System.Drawing.Size(200, 20)
@@ -579,15 +594,11 @@ Partial Class Form_Double_Clic_Client
         ChartArea1.AxisX.StripLines.Add(StripLine1)
         ChartArea1.Name = "ChartArea1"
         Me.Chart_Consommation.ChartAreas.Add(ChartArea1)
-        Legend1.Name = "Periode"
-        Legend2.Name = "Consomation"
-        Me.Chart_Consommation.Legends.Add(Legend1)
-        Me.Chart_Consommation.Legends.Add(Legend2)
         Me.Chart_Consommation.Location = New System.Drawing.Point(22, 93)
         Me.Chart_Consommation.Name = "Chart_Consommation"
         Series1.ChartArea = "ChartArea1"
-        Series1.Legend = "Periode"
-        Series1.Name = "Consomation"
+        Series1.IsValueShownAsLabel = True
+        Series1.Name = "Conso"
         Me.Chart_Consommation.Series.Add(Series1)
         Me.Chart_Consommation.Size = New System.Drawing.Size(720, 287)
         Me.Chart_Consommation.TabIndex = 0
@@ -603,32 +614,6 @@ Partial Class Form_Double_Clic_Client
         Me.Text_Titre.Size = New System.Drawing.Size(127, 24)
         Me.Text_Titre.TabIndex = 1
         Me.Text_Titre.Text = "Nom du client"
-        '
-        'Label_periode_2
-        '
-        Me.Label_periode_2.AutoSize = True
-        Me.Label_periode_2.Location = New System.Drawing.Point(432, 24)
-        Me.Label_periode_2.Name = "Label_periode_2"
-        Me.Label_periode_2.Size = New System.Drawing.Size(19, 13)
-        Me.Label_periode_2.TabIndex = 10
-        Me.Label_periode_2.Text = "au"
-        '
-        'ComboBox5
-        '
-        Me.ComboBox5.FormattingEnabled = True
-        Me.ComboBox5.Location = New System.Drawing.Point(503, 51)
-        Me.ComboBox5.Name = "ComboBox5"
-        Me.ComboBox5.Size = New System.Drawing.Size(194, 21)
-        Me.ComboBox5.TabIndex = 8
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(414, 54)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(67, 13)
-        Me.Label7.TabIndex = 9
-        Me.Label7.Text = "N° Compteur"
         '
         'Form_Double_Clic_Client
         '
@@ -667,8 +652,8 @@ Partial Class Form_Double_Clic_Client
     Friend WithEvents List_Compteur As System.Windows.Forms.ListView
     Friend WithEvents Compteur As System.Windows.Forms.ColumnHeader
     Friend WithEvents Textbox_Nom_Information As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox_Prenom_Informations As System.Windows.Forms.TextBox
-    Friend WithEvents TextBox_Adresse1_Informations As System.Windows.Forms.TextBox
+    Friend WithEvents TextBox_Prenom_Information As System.Windows.Forms.TextBox
+    Friend WithEvents TextBox_Adresse1_Information As System.Windows.Forms.TextBox
     Friend WithEvents TextBox_Id_Informations As System.Windows.Forms.TextBox
     Friend WithEvents TextBox_CodePostal As System.Windows.Forms.TextBox
     Friend WithEvents Text_CodePostal_Information As System.Windows.Forms.Label
@@ -683,31 +668,30 @@ Partial Class Form_Double_Clic_Client
     Friend WithEvents Montant As System.Windows.Forms.ColumnHeader
     Friend WithEvents Address As System.Windows.Forms.ColumnHeader
     Friend WithEvents DateTime_DateDebut_Factures As System.Windows.Forms.DateTimePicker
-    Friend WithEvents Text_DateFin_factures As System.Windows.Forms.Label
     Friend WithEvents Chart_Consommation As System.Windows.Forms.DataVisualization.Charting.Chart
     Friend WithEvents Text_DateDebut_Consommation As System.Windows.Forms.Label
     Friend WithEvents Text_DateFin_Consommation As System.Windows.Forms.Label
     Friend WithEvents DateTime_DateDebut_Consommation As System.Windows.Forms.DateTimePicker
     Friend WithEvents DateTime_DateFin_Consommation As System.Windows.Forms.DateTimePicker
-    Friend WithEvents ComboBox1 As System.Windows.Forms.ComboBox
+    Friend WithEvents ComboBox_civilite As System.Windows.Forms.ComboBox
     Friend WithEvents Label1 As System.Windows.Forms.Label
-    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
+    Friend WithEvents TextBox_mail As System.Windows.Forms.TextBox
     Friend WithEvents Label3 As System.Windows.Forms.Label
-    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents TextBox_ville As System.Windows.Forms.TextBox
     Friend WithEvents Label2 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox3 As System.Windows.Forms.ComboBox
-    Friend WithEvents ComboBox2 As System.Windows.Forms.ComboBox
-    Friend WithEvents Label6 As System.Windows.Forms.Label
-    Friend WithEvents Label5 As System.Windows.Forms.Label
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents Client_Address As System.Windows.Forms.ColumnHeader
-    Friend WithEvents TextBox3 As System.Windows.Forms.TextBox
     Friend WithEvents ColumnHeader_Client_Compteurs_DebutAbonnement As System.Windows.Forms.ColumnHeader
     Friend WithEvents ColumnHeader_Client_Compteurs_FinAbonnement As System.Windows.Forms.ColumnHeader
-    Friend WithEvents DateTimePicker1 As DateTimePicker
-    Friend WithEvents ComboBox4 As ComboBox
+    Friend WithEvents DateTime_DateFin_Factures As DateTimePicker
+    Friend WithEvents ComboBoxAdresse_Fact As ComboBox
     Friend WithEvents Label_tri_adresse As Label
     Friend WithEvents Label_periode_2 As Label
     Friend WithEvents Label7 As Label
-    Friend WithEvents ComboBox5 As ComboBox
+    Friend WithEvents ComboBoxNumCompteur_Conso As ComboBox
+    Friend WithEvents Num As ColumnHeader
+    Friend WithEvents CheckBox_mail As CheckBox
+    Friend WithEvents CheckBox_Courrier As CheckBox
+    Friend WithEvents Label5 As Label
+    Friend WithEvents ComboBoxNumCompteur_Fact As ComboBox
 End Class
