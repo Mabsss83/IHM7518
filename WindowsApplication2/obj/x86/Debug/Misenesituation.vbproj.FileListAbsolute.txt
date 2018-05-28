@@ -206,7 +206,6 @@ C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplicati
 C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\MySql.Data.dll
 C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\Google.Protobuf.dll
 C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\MySql.Data.xml
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
 C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
 C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
 C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
@@ -227,3 +226,4 @@ C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplicati
 C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
 C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
 C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojAssemblyReference.cache
