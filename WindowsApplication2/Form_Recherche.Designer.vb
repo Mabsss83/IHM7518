@@ -88,6 +88,7 @@ Partial Class Form_Recherche
         Me.TextBox_Adresse_Client = New System.Windows.Forms.TextBox()
         Me.GroupBox_Clients_Resultats = New System.Windows.Forms.GroupBox()
         Me.Tab_Clients = New System.Windows.Forms.ListView()
+        Me.ColumnHeader_Clients_Id = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.ColumnHeader_Clients_Civ = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.ColumnHeader_Clients_Nom = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.Colonne_Prénom = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
@@ -112,7 +113,6 @@ Partial Class Form_Recherche
         Me.Colonne_Releves_IndexAncien = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.Colonne_Releves_IndexNouveau = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.Tab_Relevé = New System.Windows.Forms.TabControl()
-        Me.ColumnHeader_Clients_Id = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.Cout_de_Facturation.SuspendLayout()
         Me.GroupBox_Coutdefac_Actuel.SuspendLayout()
         Me.GroupBox_Recherche_Coutdefac.SuspendLayout()
@@ -716,6 +716,10 @@ Partial Class Form_Recherche
         Me.Tab_Clients.UseCompatibleStateImageBehavior = False
         Me.Tab_Clients.View = System.Windows.Forms.View.Details
         '
+        'ColumnHeader_Clients_Id
+        '
+        Me.ColumnHeader_Clients_Id.Text = "Id"
+        '
         'ColumnHeader_Clients_Civ
         '
         Me.ColumnHeader_Clients_Civ.Text = "Civ"
@@ -900,10 +904,6 @@ Partial Class Form_Recherche
         Me.Tab_Relevé.SelectedIndex = 0
         Me.Tab_Relevé.Size = New System.Drawing.Size(866, 451)
         Me.Tab_Relevé.TabIndex = 0
-        '
-        'ColumnHeader_Clients_Id
-        '
-        Me.ColumnHeader_Clients_Id.Text = "Id"
         '
         'Form_Recherche
         '

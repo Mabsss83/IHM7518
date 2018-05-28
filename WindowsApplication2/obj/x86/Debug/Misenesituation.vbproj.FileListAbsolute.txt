@@ -178,7 +178,6 @@ D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
 D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
 D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
 D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
-D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
 D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
 D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
 D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
@@ -199,31 +198,36 @@ D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyCo
 D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
 D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
 D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\MySql.Data.dll
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\Google.Protobuf.dll
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\MySql.Data.xml
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Parametre.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Recherche.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Client.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Client.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Compteur.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Ajouteruncoutdefac.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Modifier_Abonnement.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Main.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Hopital.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form1.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Resources.resources
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
-C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojAssemblyReference.cache
+D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\itextsharp.dll
+D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\itextsharp.pdfa.dll
+D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\itextsharp.xtra.dll
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\bin\Debug\itextsharp.dll
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\bin\Debug\itextsharp.pdfa.dll
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\bin\Debug\itextsharp.xtra.dll
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\bin\Debug\MySql.Data.dll
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Parametre.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Recherche.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Client.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Client.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Compteur.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Ajouteruncoutdefac.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Modifier_Abonnement.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Main.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Hopital.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form1.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Resources.resources
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
+D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
