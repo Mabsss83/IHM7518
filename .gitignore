@@ -3,3 +3,7 @@
 ################################################################################
 
 /WindowsApplication2/.vs/Misenesituation/v15/Server/sqlite3/db.lock
+
+*.exe
+
+*.cache
