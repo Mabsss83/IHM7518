@@ -1,0 +1,229 @@
+z:\mes documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+z:\mes documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+z:\mes documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+z:\mes documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+z:\mes documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.Cache
+z:\mes documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+z:\mes documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+z:\mes documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Ajouteruncoutdefac.resources
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\Facturation IHM\obj\x86\Debug\WindowsApplication2.exe
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\Facturation IHM\obj\x86\Debug\WindowsApplication2.xml
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\Facturation IHM\obj\x86\Debug\WindowsApplication2.pdb
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Double_Clic_Compteur.resources
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Recherche.resources
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Double_Clic_Client.resources
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Ajouter_Client.resources
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Ajouter_Compteur.resources
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Ajouter_Abonnement.resources
+Z:\Mes Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Main.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Double_Clic_Compteur.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Recherche.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Double_Clic_Client.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Ajouter_Client.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Ajouter_Compteur.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Ajouteruncoutdefac.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Main.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.Cache
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Hopital.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Bois.resources
+P:\MES_Limousin_Grondin_calzet_Raboiss\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Modifier_Abonnement.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Bois.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Double_Clic_Compteur.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Recherche.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Double_Clic_Client.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Ajouter_Client.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Ajouter_Compteur.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Ajouteruncoutdefac.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Modifier_Abonnement.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Main.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Hopital.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+Z:\Mes Documents\Projet chaufferie Tramayes\Fichiers sources anciens grp\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.Cache
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Bois.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Double_Clic_Compteur.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Recherche.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Double_Clic_Client.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Ajouter_Client.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Ajouter_Compteur.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Ajouteruncoutdefac.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Modifier_Abonnement.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Main.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form_Hopital.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
+C:\Users\Marc Gondran\Documents\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Recherche.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Client.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Client.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Compteur.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Ajouteruncoutdefac.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Modifier_Abonnement.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Main.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Hopital.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Resources.resources
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
+C:\Users\Marc Gondran\Documents\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
+D:\UEI2S\WindowsApplication2\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
+D:\UEI2S\WindowsApplication2\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
+D:\UEI2S\WindowsApplication2\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
+D:\UEI2S\WindowsApplication2\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Recherche.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Client.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Client.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Compteur.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Ajouteruncoutdefac.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Modifier_Abonnement.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Main.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Hopital.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Resources.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form1.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
+D:\UEI2S\WindowsApplication2\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Parametre.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Parametre.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Recherche.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Client.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Client.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Compteur.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Ajouteruncoutdefac.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Modifier_Abonnement.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Main.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Hopital.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form1.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Resources.resources
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
+D:\UEI2S\IHM25418\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
+D:\UEI2S\IHM25418\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
+D:\UEI2S\IHM25418\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
+D:\UEI2S\IHM25418\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
+D:\UEI2S\IHM25418\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
+D:\UEI2S\IHM27418\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
+D:\UEI2S\IHM27418\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
+D:\UEI2S\IHM27418\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
+D:\UEI2S\IHM27418\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Parametre.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Recherche.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Client.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Client.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Compteur.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Ajouteruncoutdefac.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Modifier_Abonnement.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Main.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Hopital.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form1.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Resources.resources
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
+D:\UEI2S\IHM27418\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
+D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
+D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
+D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
+D:\UEI2S\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Parametre.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Recherche.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Client.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Client.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Compteur.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Ajouteruncoutdefac.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Modifier_Abonnement.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Main.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Hopital.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form1.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Resources.resources
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
+D:\UEI2S\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\Google.Protobuf.dll
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojResolveAssemblyReference.cache
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Parametre.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Recherche.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Client.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Client.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Compteur.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Ajouteruncoutdefac.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Modifier_Abonnement.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Main.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Hopital.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form1.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Resources.resources
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
+C:\Users\Pilou\Documents\Birse\UEI 2S\Mise en situation\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
