@@ -231,3 +231,32 @@ D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\Misene
 D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
 D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
 D:\Documents\Mise en situation\IHM18525\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe.config
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.exe
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.pdb
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\bin\Debug\FacturationChaufferie.xml
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\bin\Debug\itextsharp.dll
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\bin\Debug\itextsharp.xtra.dll
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbprojAssemblyReference.cache
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Bois.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Compteur.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_ModifyParametre.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Parametre.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Recherche.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Double_Clic_Client.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Client.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Ajouter_Compteur.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Ajouteruncoutdefac.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Modifier_Abonnement.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Main.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form_Hopital.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Form1.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.Resources.resources
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.GenerateResource.cache
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CoreCompileInputs.cache
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\Misenesituation.vbproj.CopyComplete
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.exe
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.xml
+C:\Users\Marc Gondran\Documents\GitHub_Repository\IHM7518\WindowsApplication2\obj\x86\Debug\FacturationChaufferie.pdb
