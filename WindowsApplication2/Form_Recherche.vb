@@ -272,4 +272,15 @@ Public Class Form_Recherche
 
         End If
     End Sub
+
+    Private Sub Double_Click_Compteur() Handles Tab_compteur.MouseDoubleClick
+
+        If Me.Tab_compteur.SelectedItems.Count = 1 Then
+
+            Dim lvi As ListViewItem = Me.Tab_compteur.SelectedItems(0)
+            Dim idCompteur As String = lvi.SubItems(0).Text
+            Dim compteur As New Form_Double_Clic_Client(idCompteur)
+
+        End If
+    End Sub
 End Class
