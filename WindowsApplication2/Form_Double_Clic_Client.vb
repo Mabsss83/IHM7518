@@ -43,7 +43,7 @@ Public Class Form_Double_Clic_Client
     Private Sub List_Factures_DoubleClick(ByVal sender As Object, ByVal e As System.EventArgs) Handles List_Factures.DoubleClick
         If Me.List_Factures.SelectedItems.Count = 1 Then
             Dim lvi As ListViewItem = Me.List_Factures.SelectedItems(0)
-            Dim idFacture As String = lvi.SubItems(0).Text
+            Dim idFacture As String = lvi.Text
 
             Dim factureData As List(Of List(Of String)) = bdd.Read("SELECT * FROM FactureStokee WHERE Id = " & idFacture)
 
@@ -97,10 +97,42 @@ Public Class Form_Double_Clic_Client
     End Sub
 
     Private Sub Button_Supprimer_Compteurs_Click(sender As Object, e As EventArgs)
+        If Me.List_Compteur.SelectedItems.Count = 1 Then
+            If MsgBox("Voulez-vous vraiment suprimer cet abonnement ?", MsgBoxStyle.YesNo, "Comfirmation") = DialogResult.Yes Then
+                Dim lvi As ListViewItem = Me.List_Compteur.SelectedItems(0)
+                Dim idCompteur As String = lvi.Text
 
+                bdd.Modify("DELETE FROM Abonnement WHERE IdCompteur = " & idCompteur)
+
+                Dim data As List(Of List(Of String))
+                Dim item As ListViewItem
+
+                List_Compteur.Items.Clear()
+
+                data = bdd.Read("SELECT cp.NumCompteur, cp.AdresseLivraison, pu.puissance,  pu.DateDebut FROM Compteur cp INNER JOIN Puissance pu ON cp.Id = pu.IdCompteur INNER JOIN Abonnement ab ON cp.Id = ab.IdCompteur WHERE ab.IdClient = " & idClient)
+                For Each line In data
+                    item = New ListViewItem()
+                    item.Text = line(0)
+                    For i As Integer = 1 To 3
+                        item.SubItems.Add(line(i))
+                    Next
+                    List_Compteur.Items.Add(item)
+                Next
+            End If
+        End If
     End Sub
 
+    Private Sub Button_Ajouter_Compteurs_Click(sender As Object, e As EventArgs) Handles Button_Ajouter_Compteurs.Click
+        Dim formAddAbo As Form_Modifier_Abonnement = New Form_Modifier_Abonnement(idClient)
+    End Sub
 
+    Private Sub Button_Modifier_Compteurs_Click(sender As Object, e As EventArgs) Handles Button_Modifier_Compteurs.Click
+        If Me.List_Compteur.SelectedItems.Count = 1 Then
+            Dim lvi As ListViewItem = Me.List_Compteur.SelectedItems(0)
+            Dim idCompteur As String = lvi.Text
+            Dim formAddAbo As Form_Modifier_Abonnement = New Form_Modifier_Abonnement(idClient, idCompteur)
+        End If
+    End Sub
 
 
 
@@ -227,7 +259,6 @@ Public Class Form_Double_Clic_Client
         End If
 
         'Tab Compteur
-        ', pu.DateFin
         data = bdd.Read("SELECT cp.NumCompteur, cp.AdresseLivraison, pu.puissance,  pu.DateDebut FROM Compteur cp INNER JOIN Puissance pu ON cp.Id = pu.IdCompteur INNER JOIN Abonnement ab ON cp.Id = ab.IdCompteur WHERE ab.IdClient = " & idClient)
         For Each line In data
             item = New ListViewItem()
