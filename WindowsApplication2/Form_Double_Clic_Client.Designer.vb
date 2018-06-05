@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form_Double_Clic_Client
     Inherits System.Windows.Forms.Form
 
     'Form remplace la méthode Dispose pour nettoyer la liste des composants.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form_Double_Clic_Client
     'REMARQUE : la procédure suivante est requise par le Concepteur Windows Form
     'Elle peut être modifiée à l'aide du Concepteur Windows Form.  
     'Ne la modifiez pas à l'aide de l'éditeur de code.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim ChartArea1 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
         Dim StripLine1 As System.Windows.Forms.DataVisualization.Charting.StripLine = New System.Windows.Forms.DataVisualization.Charting.StripLine()
@@ -128,7 +128,7 @@ Partial Class Form_Double_Clic_Client
         Me.Informations.Controls.Add(Me.Text_Id_Informations)
         Me.Informations.Location = New System.Drawing.Point(4, 22)
         Me.Informations.Name = "Informations"
-        Me.Informations.Padding = New System.Windows.Forms.Padding(3, 3, 3, 3)
+        Me.Informations.Padding = New System.Windows.Forms.Padding(3)
         Me.Informations.Size = New System.Drawing.Size(771, 381)
         Me.Informations.TabIndex = 0
         Me.Informations.Text = "Informations"
@@ -312,7 +312,7 @@ Partial Class Form_Double_Clic_Client
         Me.List_Compteur_DoubleClic.Controls.Add(Me.List_Compteur)
         Me.List_Compteur_DoubleClic.Location = New System.Drawing.Point(4, 22)
         Me.List_Compteur_DoubleClic.Name = "List_Compteur_DoubleClic"
-        Me.List_Compteur_DoubleClic.Padding = New System.Windows.Forms.Padding(3, 3, 3, 3)
+        Me.List_Compteur_DoubleClic.Padding = New System.Windows.Forms.Padding(3)
         Me.List_Compteur_DoubleClic.Size = New System.Drawing.Size(771, 381)
         Me.List_Compteur_DoubleClic.TabIndex = 1
         Me.List_Compteur_DoubleClic.Text = "Compteurs"
@@ -358,8 +358,10 @@ Partial Class Form_Double_Clic_Client
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.List_Compteur.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.Compteur, Me.Client_Address, Me.Puissance, Me.ColumnHeader_Client_Compteurs_DebutAbonnement, Me.ColumnHeader_Client_Compteurs_FinAbonnement})
+        Me.List_Compteur.FullRowSelect = True
         Me.List_Compteur.GridLines = True
-        Me.List_Compteur.Location = New System.Drawing.Point(6, 6)
+        Me.List_Compteur.HideSelection = False
+        Me.List_Compteur.Location = New System.Drawing.Point(9, 6)
         Me.List_Compteur.Name = "List_Compteur"
         Me.List_Compteur.Size = New System.Drawing.Size(759, 292)
         Me.List_Compteur.TabIndex = 0
@@ -404,7 +406,7 @@ Partial Class Form_Double_Clic_Client
         Me.DoubleClic_factures.Controls.Add(Me.List_Factures)
         Me.DoubleClic_factures.Location = New System.Drawing.Point(4, 22)
         Me.DoubleClic_factures.Name = "DoubleClic_factures"
-        Me.DoubleClic_factures.Padding = New System.Windows.Forms.Padding(3, 3, 3, 3)
+        Me.DoubleClic_factures.Padding = New System.Windows.Forms.Padding(3)
         Me.DoubleClic_factures.Size = New System.Drawing.Size(771, 381)
         Me.DoubleClic_factures.TabIndex = 2
         Me.DoubleClic_factures.Text = "Factures"
@@ -530,7 +532,7 @@ Partial Class Form_Double_Clic_Client
         Me.DoubleClic_Consommation.Controls.Add(Me.Chart_Consommation)
         Me.DoubleClic_Consommation.Location = New System.Drawing.Point(4, 22)
         Me.DoubleClic_Consommation.Name = "DoubleClic_Consommation"
-        Me.DoubleClic_Consommation.Padding = New System.Windows.Forms.Padding(3, 3, 3, 3)
+        Me.DoubleClic_Consommation.Padding = New System.Windows.Forms.Padding(3)
         Me.DoubleClic_Consommation.Size = New System.Drawing.Size(771, 381)
         Me.DoubleClic_Consommation.TabIndex = 3
         Me.DoubleClic_Consommation.Text = "Consommation"
